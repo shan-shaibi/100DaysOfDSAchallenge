@@ -11,9 +11,7 @@ int main()
     for(int i=1;i<=n; i++)
     {
         sum=sum+i;
-        
     }
      cout<<"The sum of number from 1 to n :"<<sum;
     return 0;
-
     }
